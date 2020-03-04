@@ -1,99 +1,48 @@
 ---
-title: Home
+title: Byldworks
 sections:
   - section_id: hero
     component: hero_block.html
     type: heroblock
-    title: Hero Section
+    title: Enterprise DevOps Engineering and Consultancy Services
     image: images/5.jpg
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Specialists in continuous integration, deployment and operational management of both cloud and on- premises application environments.
     actions:
-      - label: Get Started
-        url: docs/index.html
+      - label: Contact Us
+        url: contact
   - section_id: features
     component: features_block.html
     type: featuresblock
     featureslist:
-      - title: Documentation
+      - title: Enterprise Big Data
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
-        actions:
-          - label: Get Started
-            url: docs/index.html
-      - title: Blog
+          Technicians in a wide range of big data solutions including MongoDB, HBase and Impala, covering cluster & rack topology design, tooling and operational management.
+      - title: Build, Deploy, Monitor
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-        actions:
-          - label: View Posts
-            url: blog/index.html
-      - title: Style Guides
+          Extensive experience in build and deployment engineering, specialising in Continuous Delivery and Continuous Operations, streamlining deployment pipelines for mission critical trading & risk management applications.
+      - title: Cloud Native
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
-        actions:
-          - label: Learn More
-            url: /style-guide.html
+          Experienced in operational management of both cloud and on- premises application environments.
   - section_id: text-img
     component: content_block.html
     type: contentblock
     image: images/10.jpg
-    title: A Section With An Image
+    title: Hands-on DevOps Consulting Expertise
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      At Byldworks, we understand the technical challenges associated with managing complex applications and infrastructure in large scale enterprise environments.  With over 10 years of industry experience, our team are fully equiped to help make your projects a success.
     actions:
-      - label: View Demo
-        url: /docs/getting-started/index.html
-      - label: Get Started
-        url: /docs/getting-started/index.html
-  - section_id: features-two-col
-    component: features_block.html
-    type: featuresblock
-    title: Sample Layouts
-    subtitle: An optional subtitle of the section
-    featureslist:
-      - title: Overview
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla tortor at, pulvinar orci.
-        actions:
-          - label: Learn More
-            url: /overview.html
-      - title: Showcase
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
-        actions:
-          - label: Learn More
-            url: /showcase.html
-  - section_id: cta
-    component: cta_block.html
-    type: ctablock
-    title: The Title of The Call to Action Block
-    subtitle: This is an optional description for the call to action block.
-    actions:
-      - label: Get Started
-        url: /docs/getting-started/installation.html
+      - label: Contact Us
+        url: /contact
   - section_id: text-no-img
     component: content_block.html
     type: contentblock
-    title: A Section Without Image
+    title: Get in touch
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      Our engineering and consultancy services can be fully tailored to the specific needs of your business.  Get in touch to find out more.
     actions:
-      - label: Get Started
-        url: /docs/getting-started/installation.html
+      - label: Contact Us
+        url: /contact
 menus:
   main:
     weight: 1

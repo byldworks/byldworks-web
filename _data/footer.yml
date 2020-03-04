@@ -1,6 +1,6 @@
-content: '&copy; Stackbit-Libris. All rights reserved.'
+content: '&copy; 2020 Byldworks Limited. '
 links:
-  - text: Made with Stackbit
+  - text: Privacy Policy
     url: 'https://www.stackbit.com'
     new_window: true
 has_social: true

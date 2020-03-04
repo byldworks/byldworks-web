@@ -1,9 +1,5 @@
 main:
-  - identifier: layouts
-    title: Sample Layouts
-    url: '#'
-    weight: 5
   - identifier: github
     title: GitHub
-    url: 'https://github.com/'
+    url: 'https://github.com/byldworks'
     weight: 6

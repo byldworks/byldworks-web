@@ -1,9 +1,9 @@
 ---
 title: Welcome to Libris
-menus:
-  main:
-    weight: 2
-    title: Docs
+# menus:
+#   main:
+#     weight: 2
+#     title: Docs
 layout: docs
 ---
 
