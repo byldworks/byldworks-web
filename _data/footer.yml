@@ -1,6 +1,6 @@
 content: '&copy; 2020 Byldworks Limited. '
 links:
   - text: Privacy Policy
-    url: 'https://www.stackbit.com'
+    url: '/privacy-policy'
     new_window: true
 has_social: true
