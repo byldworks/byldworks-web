@@ -5,6 +5,12 @@
             "title": "GitHub",
             "icon": "fa-github",
             "url": "https://github.com/byldworks"
+        },
+        {
+            "type": "linkedin",
+            "title": "LinkedIn",
+            "icon": "fa-linkedin",
+            "url": "https://www.linkedin.com/company/byldworks"
         }
     ]
 }
